@@ -2,7 +2,7 @@
 
 A simple command-line tool for uploading temporary files to https://file.io
 
-![](https://media.giphy.com/media/1X6RHF2GZQ6Jsq7GC8/giphy.gif)
+[![](https://media.giphy.com/media/1X6RHF2GZQ6Jsq7GC8/giphy.gif)](#)
 
 ## Installation
 
