@@ -29,6 +29,7 @@ If you're on Linux, you may need to install `xclip` and `xsel` for the clipboard
 ```
 $ fastball <filename> {options}
 ```
+Note: Filesize is limited by file.io to 100MB
 
 ## Options
 
