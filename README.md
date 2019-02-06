@@ -49,6 +49,12 @@ $ fastball foo.pdf --e=1w
 $ fastball foo.pdf --e=2y
 ```
 
+## Roadmap
+
++ Add error handling
++ Support for instant link sharing
++ Decouple logic from CLI for use in projects
+
 ## Changelog
 
 **fastball-0.1.1**
