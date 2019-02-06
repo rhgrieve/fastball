@@ -18,6 +18,12 @@ Install with Pip
 pip install .
 ```
 
+## Dependencies
+
+If you're on Linux, you may need to install `xclip` and `xsel` for the clipboard functionality to work:
+
+`sudo apt-get install xclip xsel`
+
 ## Usage
 
 ```
