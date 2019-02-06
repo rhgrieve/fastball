@@ -29,3 +29,14 @@ $ fastball {options} <filename>
 From File.io docs: 
 > The query param expires must be a positive integer which, by default, represents the number of days until the file will be deleted (defaults to 14 days). If you follow it with w, it will be the number of weeks. m for months and y for years. 
 
+**Example**
+
+*Set expiry to 1 week*
+```
+$ fastball foo.pdf --e=1w
+```
+
+*Set expiry to 2 years*
+```
+$ fastball foo.pdf --e=2y
+```
