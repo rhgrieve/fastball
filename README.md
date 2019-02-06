@@ -7,13 +7,13 @@ A simple command-line tool for uploading temporary files to https://file.io
 Clone the repository: 
 
 ```
-git clone https://github.com/rhgrieve/fastball.git
+git clone https://github.com/rhgrieve/fastball.git && cd fastball
 ```
 
 Install with Pip
 
 ```
-cd fastball && pip install .
+pip install .
 ```
 
 ## Usage
