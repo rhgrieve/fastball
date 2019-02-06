@@ -21,7 +21,7 @@ pip install .
 ## Usage
 
 ```
-$ fastball {options} <filename>
+$ fastball <filename> {options}
 ```
 
 ## Options
