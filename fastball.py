@@ -6,7 +6,7 @@ import click
 
 @click.command()
 @click.option('--e', '--expires', default='1w', type=str, help='Set expiry of link: 1w = 1 week, 2d = 2 days, 3m = 3 months, etc.')
-@click.argument('filename', type=click.Path(exists=True))
+@click.argument('f', type=click.Path(exists=True))
 
 def fastball(e, f):
     params = (
