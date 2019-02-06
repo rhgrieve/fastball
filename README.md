@@ -42,3 +42,10 @@ $ fastball foo.pdf --e=1w
 ```
 $ fastball foo.pdf --e=2y
 ```
+
+## Changelog
+
+**fastball-0.1.1**
+    
+    Added clipboard support
+    Added colours to terminal output

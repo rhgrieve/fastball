@@ -4,11 +4,12 @@ from setuptools import setup
 
 setup(
     name='fastball',
-    version='0.1',
+    version='0.1.1',
     py_modules=['fastball'],
     install_requires=[
         'Click',
-        'Requests'
+        'Requests',
+        'Pyperclip',
     ],
     entry_points='''
         [console_scripts]
